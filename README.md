@@ -18,8 +18,3 @@
 
 installation text
 
-## Usage
-
-bla bla bla 
-
-```soimethuing ```
