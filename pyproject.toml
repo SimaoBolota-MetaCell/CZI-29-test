@@ -11,5 +11,3 @@ napari = "^0.4.16"
 PyQt5 = "^5.15.6"
 testcontainers = "^3.5.3"
 
-[tool.poetry.plugins."napari.manifest"]
-mikro-napari = "mikro_napari:napari.yaml"
