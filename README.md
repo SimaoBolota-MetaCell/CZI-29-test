@@ -11,8 +11,6 @@
 
 
 
-https://user-images.githubusercontent.com/99416933/196464893-97d84172-ae14-49e8-86c7-7162f6cdc472.mov
-
 
 
 
