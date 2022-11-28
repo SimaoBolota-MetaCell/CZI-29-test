@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: If you use this plugin, please cite it using these metadata
+title: CZI-29-test
+url: https://github.com/SimaoBolota-MetaCell/CZI-29-test
+authors:
+- given-names: "Sim\xE3o"
+  family-names: Bolota
